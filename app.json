@@ -1,14 +1,14 @@
 {
   "name": "Dragon-MD-V4",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://i.ibb.co/wRgDy33/20221104-225109.png",
+  "logo": "https://telegra.ph/file/55e9056fe2f4bc74a49e2.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Dragon-MD-V4", "DragonBot", "Dragon","DragonMD","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Mr.Ameesha"
+      "value": "≛⃝🤍SUP𖼻R M𖼽N👑🇵🇰"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -39,7 +39,7 @@
       },
    "ALIVE_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://i.ibb.co/NF7FbF2/20230604-132133.png"
+     "value": "https://telegra.ph/file/55e9056fe2f4bc74a49e2.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -86,7 +86,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94767453646"
+       "value": "+923477099576"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here, Get from - https://replit.com/@AmiyaProgrammer/Dragon-MD-V4-QR?v=1"
@@ -112,11 +112,11 @@
   "PACK_INFO": {
     "description": "Put packname;authorname.",
      "value": "ᴅʀᴀɢᴏɴ-ᴍᴅ (ᴠ𝟺.𝟶) ✔;ᴍʀ.ᴀᴍᴇᴇsʜᴀ",
-     "required": false 
+     "required": true 
   },
   "CAPTION": {
     "description": "Put Your Caption.",
-     "value": "_*🪄 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐎𝐮𝐫 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🪄*_ \nhttps://youtube.com/@Dragon-MD-OFC",
+     "value": "_*🪄 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐎𝐮𝐫 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🪄*_ \nhttps://youtube.com",
      "required": false 
   },
   "heroku": {
