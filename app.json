@@ -76,8 +76,8 @@
    "required" :false
    },
    "DL_SIZE": {
-    "description": "Maximum Download Size For Bot in MB  -  Ex:- 400",
-    "value": "400",
+    "description": "Maximum Download Size For Bot in MB  -  Ex:- 999",
+    "value": "1024",
      "required" :false
     },
       "PREFIX": {
@@ -111,7 +111,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "ᴅʀᴀɢᴏɴ-ᴍᴅ (ᴠ𝟺.𝟶) ✔;ᴍʀ.ᴀᴍᴇᴇsʜᴀ",
+     "value": "≛⃝🤍SUP𖼻R M𖼽N👑🇵🇰",
      "required": true 
   },
   "CAPTION": {
